@@ -10,6 +10,7 @@ type chmod a+x installer.sh<br />
 type sh installer.sh and type password <br />
 And it is installed :)<br />
 # Bluetooth
+Your Phone and Linux PC must be bluetooth Paired!
 Linux <br />
 If you want to connect via bluetooth click bluetooth.sh and select "open in terminal" or <br />
 open terminal and type cd directory of this folder <br /> 
