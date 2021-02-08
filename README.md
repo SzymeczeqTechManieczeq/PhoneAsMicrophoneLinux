@@ -1,9 +1,36 @@
-# PhoneAsMicrophoneLinux<br />
-you Need:<br />
-Shell or other thing which support .sh<br /> any terminal<br /> Linux supporting .AppImage<br />
-WoMic on your phone ( android: https://play.google.com/store/apps/details?id=com.wo.voice2&hl=en_US&gl=US) ios: https://apps.apple.com/us/app/wo-mic/id1260978417)<br />
-You must to set WoMic to WiFi Connection on your phone (settings > transport > wifi)<br />
-download my script and give it to any folder <br />
-download womic for linux (https://wolicheng.com/womic/softwares/micclient-x86_64.AppImage) and give it to the same folder which script<br />
-cd (directory of this script) && chmod a+x mic.sh<br />
-click this script, and click "open in terminal"<br />
+# Phone As Microphone Linux<br />
+# Installation <br />
+You need: <br />
+Wo Mic Appimage for linux https://wolicheng.com/womic/softwares/micclient-x86_64.AppImage <br />
+Wo mic on Your Phone (Android/IOS)<br />
+My scripts<br />
+You need to: <br />
+Give my script and Wo Mic AppImage to the same folder.<br />
+Open Terminal and type cd directory of this folder<br />
+type chmod a+x install.sh<br />
+type install.sh <br />
+And it is installed :)<br />
+# Bluetooth
+Linux <br />
+If you want to connect via bluetooth click bluetooth.sh and select "open in terminal" or <br />
+open terminal and type cd directory of this folder <br /> 
+and type bluetooth.sh <br />
+Phone<br />
+Go to WoMic App <br />
+Womic>settings>transport>bluetooth <br />
+System>Settings>About phone>Status>Bluetooth address <br />
+Linux<br />
+type "Bluetooth address" from phone in this script <br />
+connected
+# WiFi
+Linux<br />
+If you want to connect via WiFi click wifi.sh and select "open in terminal" or <br />
+open terminal and type cd directory of this folder <br /> 
+and type wifi.sh
+Phone<br />
+Go to WoMic App <br />
+WoMic>settings>transport>wifi <br />
+Phone <br />
+click "back button" <br />
+type a numbers which you will see.
+<br />Connected.
