@@ -18,6 +18,7 @@ type your password to script<br />
 Phone<br />
 Go to WoMic App <br />
 Womic>settings>transport>bluetooth <br />
+Start<br />
 System>Settings>About phone>Status>Bluetooth address <br />
 Linux<br />
 type "Bluetooth address" from phone in this script <br />
