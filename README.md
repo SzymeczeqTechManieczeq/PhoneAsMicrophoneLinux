@@ -35,5 +35,6 @@ Go to WoMic App <br />
 WoMic>settings>transport>wifi <br />
 Phone <br />
 click "back button" <br />
+Linux <br />
 type a numbers which you will see.
 <br />Connected.
