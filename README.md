@@ -14,6 +14,7 @@ Linux <br />
 If you want to connect via bluetooth click bluetooth.sh and select "open in terminal" or <br />
 open terminal and type cd directory of this folder <br /> 
 and type bluetooth.sh <br />
+type your password to script<br />
 Phone<br />
 Go to WoMic App <br />
 Womic>settings>transport>bluetooth <br />
@@ -25,7 +26,8 @@ connected
 Linux<br />
 If you want to connect via WiFi click wifi.sh and select "open in terminal" or <br />
 open terminal and type cd directory of this folder <br /> 
-and type wifi.sh
+and type wifi.sh<br />
+type your password to script
 Phone<br />
 Go to WoMic App <br />
 WoMic>settings>transport>wifi <br />
