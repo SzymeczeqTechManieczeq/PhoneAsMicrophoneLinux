@@ -38,3 +38,5 @@ click "back button" <br />
 Linux <br />
 type a numbers which you will see.
 <br />Connected.
+# Debugging
+It can mute your audio. if it will happen go to your voice manager and click Output, set any device. if it is not working try other. it will repair this problem.
