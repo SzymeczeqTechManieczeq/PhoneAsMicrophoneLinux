@@ -1,7 +1,6 @@
 # Phone As Microphone Linux<br />
 # Installation <br />
 You need: <br />
-Wo Mic Appimage for linux https://wolicheng.com/womic/softwares/micclient-x86_64.AppImage <br />
 Wo mic on Your Phone (Android/IOS)<br />
 My scripts<br />
 You need to: <br />
